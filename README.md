@@ -1,10 +1,10 @@
 ### Olá, meu nome é Rodrigo Siqueira 👋
 
 
-- 🔭 Foco atual em  Front-End e Desktop;
-- 🌱 Atualmente aprendendo C#;
-- 👍 Trabalho com infraestrutura de Redes;
-- 🐱‍🏍 Tentando migrar de carreira para programação;
+- 🔭 Foco atual em  APIs Mulesoft;
+- 🌱 Atualmente aprendendo Raml;
+- 👍 Trabalho com desenvolvimento Mulesoft;
+- 🐱‍ Conhecimentos na carreira de DevOps;
 ##
 <div align="center">
   <a href="https://github.com/1rodrigosiqueira">
@@ -12,6 +12,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rodrigosiqueira&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="HTML 5" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mulesoft_logo_icon_170933.png">
   <img align="center" alt="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
