@@ -2,7 +2,7 @@
 
 
 - 🔭 Foco atual em  APIs Mulesoft;
-- 🌱 Atualmente aprendendo Raml;
+- 🌱 Atualmente aprendendo dataweave;
 - 👍 Trabalho com desenvolvimento Mulesoft;
 - 🐱‍ Conhecimentos na carreira de DevOps;
 ##
